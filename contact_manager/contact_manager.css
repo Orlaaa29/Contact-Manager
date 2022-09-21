@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+#form
+{
+		width:350px;
+		height:auto;
+		margin-left: 500px;
+		margin-bottom: 50px;
+		border: 2px solid;
+}
+
+h2
+	{
+		text-align: center;
+	}
+
+#contactList
+	{
+		padding: 0px 65px;
+	}
+
+#submitButton
+	{	
+		padding: 25px 10px 40px 25px;
+		display: inline;
+	}
+
+#showFormButton
+	{	
+		padding: 25px 25px 40px 30px;
+		display: inline;
+	}
+
+#contactForm
+	{
+		border: 1px solid;
+		width: 60%;		
+		margin-left: 300px;		
+	}
+
+th
+	{
+		border: 1px solid black;
+		height: 10px;
+		width: 100px;
+		text-align: center;
+		padding: 5px;
+	}
+
+td
+	{
+		border: 1px solid black;
+		height: 30px;
+		text-align: left;
+		padding: 15px;
+	}
+
+tr:nth-child(even)
+	{
+		background-color: lightyellow;
+	}
+
+		
